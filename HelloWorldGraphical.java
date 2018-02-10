@@ -2,6 +2,11 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+/**
+*
+* @authors Guillermo Romero Alonso
+*
+*/
 public class HelloWorldGraphical extends JFrame implements ActionListener {
     private JPanel panel1, panel2, panel3;
     private JButton en, fr, de, es, exit;
